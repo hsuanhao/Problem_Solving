@@ -5,6 +5,6 @@
 3. [Move Zeroes](https://github.com/hsuanhao/Problem_Solving/blob/master/Array/Move%20Zeroes.ipynb)
 4. [Remove Duplicates from Sorted Array](https://github.com/hsuanhao/Problem_Solving/blob/master/Array/Remove%20Duplicates%20from%20Sorted%20Array.ipynb)
 5. [Contains Duplicate](https://github.com/hsuanhao/Problem_Solving/blob/master/Array/Contains%20Duplicate.ipynb)
-6. [Single Number]
+6. [Single Number](https://github.com/hsuanhao/Problem_Solving/blob/master/Array/Single%20Number.ipynb)
 
 
